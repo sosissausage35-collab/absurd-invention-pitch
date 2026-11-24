@@ -1,0 +1,1 @@
+{"description":"One-sentence pitch for a ridiculous invention that fixes a tiny everyday annoyance, entered on make.fun","license":"MIT","main":"main.ts","name":"absurd-invention-pitch","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
